@@ -1,4 +1,4 @@
-name: vqa
+name: .env
 channels:
   - soumith
   - defaults
@@ -76,5 +76,5 @@ dependencies:
     - traitlets==4.3.2
     - unidecode==1.0.23
     - urllib3==1.22
-prefix: /home/minhvu/anaconda3/envs/vqa
+prefix: .\.env
 

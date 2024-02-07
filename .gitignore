@@ -1,3 +1,5 @@
+# the environment
+.env/
 *.jpeg
 *.jpg
 *.csv
